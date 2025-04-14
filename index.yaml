@@ -7,9 +7,9 @@ entries:
     description: Modular and transparent LAMP stack chart supporting PHP-FPM, Release
       Cloning, LoadBalancer, Ingress, SSL and lots more!
     digest: d9eeed056188a29e95e98e612d90a118e50502701cd7d372abbd1203c1bff487
-    home: https://github.com/lead4good/lamp-helm-repository
+    home: https://github.com/roadfox/lamp-helm-repository
     maintainers:
-    - name: lead4good
+    - name: roadfox
     name: lamp
     urls:
     - lamp-1.1.5.tgz
@@ -20,9 +20,9 @@ entries:
     description: Modular and transparent LAMP stack chart supporting PHP-FPM, Release
       Cloning, LoadBalancer, Ingress, SSL and lots more!
     digest: add1db50455ff57a96fe464ef281db0687282c2800666d3459f0a3f86d635136
-    home: https://github.com/lead4good/helm-lamp-artifacthub
+    home: https://github.com/roadfox/helm-lamp-artifacthub
     maintainers:
-    - name: lead4good
+    - name: roadfox
     name: lamp
     urls:
     - lamp-1.1.4.tgz
@@ -33,9 +33,9 @@ entries:
     description: Modular and transparent LAMP stack chart supporting PHP-FPM, Release
       Cloning, LoadBalancer, Ingress, SSL and lots more!
     digest: f5d8b70df57eaf6d27042d64a04d695211482df2e061b23bb6ac3552c6195dd4
-    home: https://github.com/lead4good/helm-lamp-artifacthub
+    home: https://github.com/roadfox/helm-lamp-artifacthub
     maintainers:
-    - name: lead4good
+    - name: roadfox
     name: lamp
     urls:
     - lamp-1.1.3.tgz
