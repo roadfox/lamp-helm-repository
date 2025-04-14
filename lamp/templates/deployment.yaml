@@ -633,7 +633,7 @@ spec:
       {{ if .Values.svn.enabled }}
       - name: svn
         image: lead4good/svn-sync
-        command: [/bin/sh, -c, "chown xfs:xfs /svn/ && su -s /bin/sh -c '/bin/sh /entrypoint.sh /sync.sh' xfs"]
+        command: [/bin/sh, -c, "chown www-data:www-data /svn/ && su -s /bin/sh -c '/bin/sh /entrypoint.sh /sync.sh' www-data"]
         env:
         - name: SYNC_USER
           valueFrom:
